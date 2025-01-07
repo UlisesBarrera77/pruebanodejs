@@ -1,0 +1,11 @@
+.botton{
+    background-color: blue;
+    color: green;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.botton:hover{
+    background-color: aqua;
+}
